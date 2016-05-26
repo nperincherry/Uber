@@ -1,8 +1,7 @@
-# Uber Clone iOS Application  
+# Uber Clone iOS Application - Test commit  
   
 Uber Clone iOS 9 application using Swift 2 (Xcode 7).  
 This project is a clone of Uber which is a transportation network application. It allows riders to submit trip request which is then routed to Uber drivers who use their own cars.  
-  
 The app implements some of the main features of Uber:
 - Login/Signup page
 - Logout
